@@ -1,0 +1,13 @@
+{
+  "name": "devon2013",
+  "version": "0.0.1",
+  "description": "crawl programs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "crawler": "0.2.5"
+  }
+}
